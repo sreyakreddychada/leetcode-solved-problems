@@ -8,12 +8,14 @@
 | [0014-longest-common-prefix](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -28,6 +30,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
