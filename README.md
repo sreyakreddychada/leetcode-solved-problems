@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
