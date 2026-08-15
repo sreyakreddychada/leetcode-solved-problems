@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
