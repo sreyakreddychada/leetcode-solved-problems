@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
