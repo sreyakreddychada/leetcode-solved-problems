@@ -53,6 +53,7 @@
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0046-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
