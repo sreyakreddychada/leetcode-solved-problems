@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
 ## Newton's Method
 |  |
 | ------- |
