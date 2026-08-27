@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
