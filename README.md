@@ -95,6 +95,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
