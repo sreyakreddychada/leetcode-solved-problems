@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
+| [0228-summary-ranges](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
