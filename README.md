@@ -76,6 +76,7 @@
 | [0070-climbing-stairs](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -142,4 +143,24 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
