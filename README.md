@@ -118,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3903-smallest-stable-index-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
