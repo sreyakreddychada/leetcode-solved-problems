@@ -83,6 +83,7 @@
 | [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
