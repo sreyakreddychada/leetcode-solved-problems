@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0046-permutations) |
@@ -54,6 +55,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
@@ -64,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
