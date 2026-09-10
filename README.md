@@ -47,6 +47,7 @@
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -73,6 +74,7 @@
 | [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
