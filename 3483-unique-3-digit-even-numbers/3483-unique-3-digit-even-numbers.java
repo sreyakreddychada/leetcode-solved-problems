@@ -1,0 +1,45 @@
+class Solution {
+    public int totalNumbers(int[] digits) {
+        int[] freq = new int[10];
+
+        for (int d : digits) {
+            freq[d]++;
+        }
+
+        int count = 0;
+
+        for (int num = 100; num <= 998; num += 2) {
+            int a = num / 100;
+            int b = (num / 10) % 10;
+            int c = num % 10;
+
+           
+            if (freq[a] == 0) continue;
+            freq[a]--;
+
+            
+            if (freq[b] == 0) {
+                freq[a]++;
+                continue;
+            }
+            freq[b]--;
+
+           
+            if (freq[c] == 0) {
+                freq[a]++;
+                freq[b]++;
+                continue;
+            }
+            freq[c]--;
+
+            count++;
+
+           
+            freq[a]++;
+            freq[b]++;
+            freq[c]++;
+        }
+
+        return count;
+    }
+}
