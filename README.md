@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
@@ -133,6 +134,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -143,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0392-is-subsequence) |
