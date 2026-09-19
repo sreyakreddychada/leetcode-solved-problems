@@ -95,6 +95,7 @@
 | [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0509-fibonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3871-count-commas-in-range-ii) |
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
