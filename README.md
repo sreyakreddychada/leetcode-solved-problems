@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -70,6 +71,7 @@
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -232,4 +234,12 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
