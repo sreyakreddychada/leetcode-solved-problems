@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
