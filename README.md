@@ -59,6 +59,7 @@
 | [0392-is-subsequence](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0482-license-key-formatting) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -221,6 +222,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0048-rotate-image) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
