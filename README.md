@@ -53,6 +53,7 @@
 | [0010-regular-expression-matching](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
@@ -225,6 +226,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -265,6 +267,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
