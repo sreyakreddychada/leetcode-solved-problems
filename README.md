@@ -60,6 +60,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0482-license-key-formatting) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -108,6 +109,7 @@
 | [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -144,6 +146,7 @@
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
