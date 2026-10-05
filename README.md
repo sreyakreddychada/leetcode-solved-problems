@@ -93,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0392-is-subsequence) |
+| [2396-strictly-palindromic-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2396-strictly-palindromic-number) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2396-strictly-palindromic-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3870-count-commas-in-range) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
