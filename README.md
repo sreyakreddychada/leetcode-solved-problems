@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
@@ -39,6 +40,7 @@
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
@@ -77,6 +79,7 @@
 | [0018-4sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
@@ -108,6 +111,7 @@
 | [0231-power-of-two](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
@@ -130,6 +134,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
@@ -143,6 +148,7 @@
 | [0190-reverse-bits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
