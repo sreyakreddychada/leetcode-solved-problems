@@ -172,6 +172,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0509-fibonacci-number) |
@@ -238,6 +239,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
