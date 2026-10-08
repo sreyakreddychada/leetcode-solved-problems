@@ -64,6 +64,7 @@
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0482-license-key-formatting) |
+| [1021-remove-outermost-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -246,6 +247,7 @@
 | [0020-valid-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
