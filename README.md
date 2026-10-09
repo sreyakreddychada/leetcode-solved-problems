@@ -20,6 +20,7 @@
 | [0228-summary-ranges](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
@@ -234,6 +235,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
@@ -295,4 +297,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
