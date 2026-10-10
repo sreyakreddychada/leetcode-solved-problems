@@ -26,6 +26,7 @@
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -85,6 +86,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -138,6 +140,7 @@
 | [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -301,4 +305,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
