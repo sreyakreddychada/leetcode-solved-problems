@@ -17,6 +17,7 @@
 | [0119-pascals-triangle-ii](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@
 | [0001-two-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +83,7 @@
 | [0015-3sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
