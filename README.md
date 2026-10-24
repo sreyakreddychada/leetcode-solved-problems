@@ -73,6 +73,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -130,6 +131,7 @@
 | [0509-fibonacci-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3870-count-commas-in-range) |
