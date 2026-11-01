@@ -24,6 +24,7 @@
 | [0303-range-sum-query-immutable](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -131,6 +132,7 @@
 | [0342-power-of-four](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2396-strictly-palindromic-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2396-strictly-palindromic-number) |
