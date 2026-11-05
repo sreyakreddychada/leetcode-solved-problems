@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0066-plus-one) |
@@ -155,6 +156,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0268-missing-number) |
