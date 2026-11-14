@@ -35,6 +35,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0303-range-sum-query-immutable) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
