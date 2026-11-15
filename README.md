@@ -73,6 +73,7 @@
 | [0020-valid-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0067-add-binary) |
+| [0093-restore-ip-addresses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0046-permutations](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0093-restore-ip-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
