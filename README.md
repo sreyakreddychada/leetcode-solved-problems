@@ -85,6 +85,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -195,6 +196,7 @@
 | [0258-add-digits](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
