@@ -35,6 +35,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -60,6 +61,7 @@
 | [0496-next-greater-element-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3731-find-missing-elements) |
@@ -88,6 +90,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -306,11 +309,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0110-balanced-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0110-balanced-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
