@@ -158,6 +158,7 @@
 | [2396-strictly-palindromic-number](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3870-count-commas-in-range) |
@@ -204,6 +205,7 @@
 | [0415-add-strings](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0415-add-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
