@@ -47,6 +47,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3903-smallest-stable-index-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0561-array-partition) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |
