@@ -316,18 +316,21 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0110-balanced-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0110-balanced-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0110-balanced-binary-tree) |
 ## Geometry
 |  |
@@ -380,4 +383,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sreyakreddychada/leetcode-solved-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
